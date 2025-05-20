@@ -1,4 +1,4 @@
-# 👋 Oi Pessoal! Sou a @Mariaedrdalima
+# 👋 Oi Pessoal! Sou a Eduarda Lima (@Mariaedrdalima)
 
 <!---
 Mariaedrdalima/Mariaedrdalima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
